@@ -17,9 +17,10 @@ I'm an aspiring Software Engineer passionate about leveraging the innovations of
       
    </p>
 
---
+---
 
 ### 🧰 Languages and Tools
+
 <p align="center">
   <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
@@ -40,6 +41,8 @@ I'm an aspiring Software Engineer passionate about leveraging the innovations of
   <img alt="Photoshop" width="40px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/>
   <img alt="Premiere Pro" width="40px" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png"/>
 </p>
+#
+
 ---
 
 ### 📊 GitHub Stats
