@@ -41,15 +41,14 @@ I'm an aspiring Software Engineer passionate about leveraging the innovations of
   <img alt="Photoshop" width="40px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/>
   <img alt="Premiere Pro" width="40px" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png"/>
 </p>
-#
 
----
+#
 
 ### 📊 GitHub Stats
 ![Regil's GitHub stats](https://github-readme-stats.vercel.app/api?username=RegilKentA&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RegilKentA&layout=compact&theme=tokyonight)
 
----
+#
 
 ⭐️ From [RegilKentA](https://github.com/RegilKentA)
 
