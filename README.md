@@ -37,7 +37,7 @@ I'm an aspiring Software Engineer passionate about leveraging the innovations of
   <img alt="Visual Studio" width="40px" src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
   <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img alt="GitHub" width="40px" src="https://img.icons8.com/fluency/48/000000/github.png"/>
-  <img alt="Cisco" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg"/>
+  <img alt="Cisco" width="40px" src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg"/>
   <img alt="Photoshop" width="40px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/>
   <img alt="Premiere Pro" width="40px" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png"/>
 </p>
