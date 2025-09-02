@@ -29,7 +29,7 @@ I'm an aspiring Software Engineer passionate about leveraging the innovations of
   <img alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img alt="SQL Server" width="40px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="ExpressJS" width="40px" src="https://img.icons8.com/?size=512&id=6xYF2I7EFU8D&format=png&color=FFFFFF"/>
+  <img alt="ExpressJS" width="40px" src="https://cdn.simpleicons.org/express/ffffff"/>
   <img alt="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img alt="Flutter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
